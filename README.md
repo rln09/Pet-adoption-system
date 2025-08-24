@@ -15,5 +15,5 @@ A command-line based pet shelter management system built with Object-Oriented Pr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pet-adoption-system.git
-cd pet-adoption-system
+git clone (https://github.com/rln09/Pet-adoption-system.git)
+cd Pet-adoption-system
